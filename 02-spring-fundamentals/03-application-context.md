@@ -1,5 +1,7 @@
 # Lesson 02-03 — ApplicationContext
 
+![ApplicationContext Architecture](./03-application-context.png)
+
 ## 🎯 Learning Objective
 
 Understand what the `ApplicationContext` is, what it contains, and how it differs from the simpler `BeanFactory`. You'll understand what happens during Spring's startup phase.

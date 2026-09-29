@@ -1,5 +1,7 @@
 # Lesson 02-05 — Component Scanning
 
+![Spring Component Scanning](./05-component-scanning.png)
+
 ## 🎯 Learning Objective
 
 Understand exactly how Spring finds your classes, when it includes or excludes them, and what happens when component scanning goes wrong.

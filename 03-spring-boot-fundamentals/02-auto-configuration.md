@@ -1,5 +1,7 @@
 # Lesson 03-02 — Auto-Configuration
 
+![Spring Boot Auto-Configuration](./02-auto-configuration.png)
+
 ## 🎯 Learning Objective
 
 Understand exactly HOW Spring Boot's auto-configuration works — the mechanism behind the "magic". After this lesson, nothing in Spring Boot auto-configuration will feel magic anymore.
@@ -81,6 +83,8 @@ public class DataSourceAutoConfiguration {
 ---
 
 ## 📋 Key @Conditional Annotations
+
+![Conditional Configuration](./02-conditional-configuration.png)
 
 | Annotation | Condition |
 |------------|-----------|

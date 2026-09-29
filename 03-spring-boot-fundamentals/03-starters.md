@@ -1,5 +1,7 @@
 # Lesson 03-03 — Starters, Embedded Server & application.properties
 
+![Spring Boot Starters, Embedded Server & Properties](./03-starters.png)
+
 ## 🎯 Learning Objective
 
 Understand Spring Boot Starters, how the embedded server works, and how to configure your application with `application.properties` / `application.yml`.

@@ -1,5 +1,7 @@
 # Lesson 02-02 — IoC and Dependency Injection
 
+![IoC and Dependency Injection](./02-ioc-and-di.png)
+
 ## 🎯 Learning Objective
 
 Understand Inversion of Control and Dependency Injection at a mechanical level — not just what they are, but **exactly how Spring implements them**.

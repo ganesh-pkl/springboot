@@ -1,5 +1,7 @@
 # Lesson 16-02 — AOP — Aspect-Oriented Programming
 
+![Spring Boot AOP](./02-aop-concepts.png)
+
 ## 🎯 Learning Objective
 
 Understand AOP — one of Spring's most powerful features. Understand how `@Transactional`, `@Cacheable`, and `@Async` actually work internally through AOP. Build your own aspect.

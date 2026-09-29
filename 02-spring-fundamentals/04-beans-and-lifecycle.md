@@ -1,5 +1,7 @@
 # Lesson 02-04 — Beans and Bean Lifecycle
 
+![Spring Beans and Bean Lifecycle](./04-beans-and-lifecycle.png)
+
 ## 🎯 Learning Objective
 
 Understand what a Spring bean is, what scopes are available, and the complete lifecycle of a bean from definition to destruction. Know exactly when your code runs.
@@ -71,6 +73,8 @@ Use `@Bean` when:
 ---
 
 ## 🔍 Bean Scopes
+
+![Spring Bean Scopes](./04-bean-scopes.png)
 
 By default, Spring beans are **singletons**. But there are other scopes:
 

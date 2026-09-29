@@ -1,5 +1,7 @@
 # Lesson 02-06 — Configuration (@Configuration and @Bean)
 
+![Configuration and @Bean](./06-configuration.png)
+
 ## 🎯 Learning Objective
 
 Understand how to manually define beans when annotations alone aren't enough — and understand when to use `@Configuration` vs stereotype annotations.
